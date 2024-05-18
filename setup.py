@@ -18,7 +18,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-    name = '',
+    name = 'Kaggle Housing Prices',
     version = '0.0.1',
     author = 'Fabian Hammerschmid',
     author_email= 'fabian.hammerschmid@gmail.com',
